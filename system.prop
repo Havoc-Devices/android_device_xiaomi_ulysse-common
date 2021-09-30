@@ -22,3 +22,9 @@ ro.telephony.default_network=22,22
 
 # Blurs
 persist.sys.sf.disable_blurs=1
+
+# Havoc-OS
+ro.havoc.device.name=Redmi Note 5A
+ro.havoc.group.url=https://t.me/havoc_ulysse
+ro.havoc.maintainer=Heinz Der Flugel
+ro.havoc.maintainer.username=heinzdf
